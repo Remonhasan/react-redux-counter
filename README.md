@@ -1,3 +1,5 @@
+![Redux Counter](https://github.com/Remonhasan/react-redux-counter/blob/main/redux-counter.png)
+
 # React Redux Counter 
 
 This is a simple React application implementing a counter using Redux for state management.
