@@ -1,4 +1,4 @@
-![Redux Counter](https://github.com/Remonhasan/react-redux-counter/blob/main/redux-counter.png)
+![Redux Counter](https://github.com/Remonhasan/react-redux-counter/blob/main/react-redux-counter.png)
 
 # React Redux Counter 
 
