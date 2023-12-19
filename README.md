@@ -18,9 +18,9 @@ numerical value, showcasing how Redux manages state changes in a React applicati
 ## Features
 ***
 A list of features used within the project:
-* [Increment and Decrement]: Click buttons to increase or decrease the counter value.
-* [Redux State Management](https://redux.js.org/): Demonstrates how Redux handles state changes in a centralized store.
-* [React Integration](https://react.dev/): Integrates Redux state management into a React application.
+* Increment and Decrement : Click buttons to increase or decrease the counter value.
+* [Redux State Management](https://redux.js.org/) : Demonstrates how Redux handles state changes in a centralized store.
+* [React Integration](https://react.dev/) : Integrates Redux state management into a React application.
  
 ## Usage
 
@@ -43,11 +43,11 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ***
 The project structure is organized as follows:
-* [src/actions]: Contains action types and action creators for the counter.
-* [src/reducers](https://react.dev/reference/react/useReducer): Holds the counter reducer and the root reducer combining all reducers.
-* [src/store](https://redux.js.org/api/store): Defines the Redux store.
-* [src/components]: Includes the main `Counter` component.
-* [src/App.js]: Entry point of the application.
+* src/actions: Contains action types and action creators for the counter.
+* [src/reducers](https://react.dev/reference/react/useReducer) : Holds the counter reducer and the root reducer combining all reducers.
+* [src/store](https://redux.js.org/api/store) : Defines the Redux store.
+* src/components : Includes the main `Counter` component.
+* src/App.js : Entry point of the application.
 
 
 ## Contributions
